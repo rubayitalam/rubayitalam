@@ -22,7 +22,7 @@
 
 I'm a passionate **Full-Stack Developer** with hands-on experience building scalable web applications using modern technologies across the entire stack. Currently working as a **Software Developer at [Pixlo.co.uk](https://pixlo.co.uk)**.
 
-- 🎓 **B.Sc. in Computer Science & Engineering** — AIUB (CGPA: 3.34 / 4.00)
+- 🎓 **B.Sc. in Computer Science & Engineering** — American Internatinal University Bangladesh
 - 🌍 Based in **Bashundara, Dhaka, Bangladesh**
 - 🔭 Always learning new technologies and solving real-world problems through code
 - 🏏 Fun fact: I love playing **cricket** and exploring new tech!
@@ -73,11 +73,13 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 
 | Project | Stack | Live Demo |
 |---------|-------|-----------|
-| **Chai Bros** | React, Node.js, TailwindCSS | [🔗 Visit](https://chai-bros.vercel.app/) |
+| **Pixlo** | Full-Stack Web App | [🔗 Visit](https://pixlo.co.uk) |
+| **Chai Bros** | React, Node.js, TailwindCSS | [🔗 Visit](https://chaii-bros.vercel.app/) |
 | **Aroma Ice Cream** | React, TailwindCSS | [🔗 Visit](https://aroma-icecream.vercel.app/) |
+| **New Bros** | React, Node.js, TailwindCSS | [🔗 Visit](https://chai-bros.vercel.app/) |
 | **Sade Tillman Portfolio** | Next.js, React | [🔗 Visit](https://sade-tillman-ac87.vercel.app/) |
 | **Francis Mercado Portfolio** | Next.js, React | [🔗 Visit](https://francis-mercado.vercel.app/) |
-| **Pixlo** | Full-Stack Web App | [🔗 Visit](https://pixlo.co.uk) |
+
 
 ---
 
