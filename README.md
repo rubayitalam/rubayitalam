@@ -167,7 +167,7 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 
 <p>
   📧 <a href="mailto:rubayit100@gmail.com">rubayit100@gmail.com</a><br/>
-  📱 01610689081<br/>
+  📱 01997789080<br/>
   💼 <a href="https://www.linkedin.com/in/rubayit-alam-98843934a/">LinkedIn</a><br/>
   🐙 <a href="https://github.com/rubayitalam">GitHub</a><br/>
   🌐 <a href="https://pixlo.co.uk">Pixlo.co.uk</a>
