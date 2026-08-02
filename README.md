@@ -23,7 +23,7 @@
 
 ## 💻 About Me
 
-I'm a passionate **Full-Stack Developer** with hands-on experience building scalable web applications using modern technologies across the entire stack. Currently working as a **Web Developer at [Pixlo.co.uk](https://pixlo.co.uk)** and a **Software Engineer at [Zaytoon Business Solutions](https://zaytoon.com.bd/)**.
+I'm a passionate **Full-Stack Developer** with hands-on experience building scalable web applications using modern technologies across the entire stack. Currently working as a **Web Developer at [Pixlo](https://pixlo.co.uk)** and a Contractual **Software Engineer at [Zaytoon Business Solutions](https://zaytoon.com.bd/)**.
 
 
 * 🎓 **B.Sc. in Computer Science & Engineering** — American International University Bangladesh
