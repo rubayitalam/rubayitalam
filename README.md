@@ -14,13 +14,17 @@
   <a href="https://pixlo.co.uk">
     <img src="https://img.shields.io/badge/Pixlo.co.uk-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Pixlo"/>
   </a>
+  <a href="https://zaytoon.com.bd/">
+    <img src="https://img.shields.io/badge/zaytoon.com.bd-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Zaytoon Business Solution"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 About Me
 
-I'm a passionate **Full-Stack Developer** with hands-on experience building scalable web applications using modern technologies across the entire stack. Currently working as a **Software Developer at [Pixlo.co.uk](https://pixlo.co.uk)**.
+I'm a passionate **Full-Stack Developer** with hands-on experience building scalable web applications using modern technologies across the entire stack. Currently working as a **Web Developer at [Pixlo.co.uk](https://pixlo.co.uk)** and a **Software Engineer at [Zaytoon Business Solutions](https://zaytoon.com.bd/)**.
+
 
 * 🎓 **B.Sc. in Computer Science & Engineering** — American International University Bangladesh
 * 🌍 Based in **Bashundara, Dhaka, Bangladesh**
