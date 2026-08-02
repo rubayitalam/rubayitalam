@@ -81,13 +81,11 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 | **Pixlo**                     | Full-Stack Web App          | [🔗 Visit](https://pixlo.co.uk/)                                  |
 | **Pixieset**                  | Full-Stack Web App          | [🔗 Visit](https://testeronline.co.uk/)                           |
 | **Aroma Ice Cream**           | React, TailwindCSS          | [🔗 Visit](https://aromaice.co.uk/)                               |
-| **Aroma Ice Cream (Vercel)**  | React, TailwindCSS          | [🔗 Visit](https://aroma-icecream.vercel.app/)                    |
 | **Chai Bros 1**               | React, Node.js, TailwindCSS | [🔗 Visit](https://chaii-bros.vercel.app/)                        |
 | **Chai Bros 2**               | React, Node.js, TailwindCSS | [🔗 Visit](https://chai-bros.vercel.app/)                         |
 | **Pak Mecca Meats**           | Full-Stack Web App          | [🔗 Visit](https://pak-mecca-meats.vercel.app/)                   |
 | **Onkur Foundation**          | Next.js, React              | [🔗 Visit](https://onkur-foundation-website-nine.vercel.app/)     |
 | **Educational Website**       | Next.js, React              | [🔗 Visit](https://madrashakhairulummah.lovable.app/student-life) |
-| **New Bros**                  | React, Node.js, TailwindCSS | [🔗 Visit](https://chai-bros.vercel.app/)                         |
 | **Sade Tillman Portfolio**    | Next.js, React              | [🔗 Visit](https://sade-tillman-ac87.vercel.app/)                 |
 | **Francis Mercado Portfolio** | Next.js, React              | [🔗 Visit](https://francis-mercado.vercel.app/)                   |
 
