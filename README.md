@@ -1,83 +1,116 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake contribution animation" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubayit+Alam;Full-Stack+Developer+%C2%B7+Dhaka%2C+Bangladesh;Next.js+%7C+NestJS+%7C+ASP.NET+Core;Building+scalable+web+apps+%F0%9F%9A%80" alt="Typing SVG" /> </a> <img src="https://user-images.githubusercontent.com/74038190/213760677-c6e6c9e1-2ba4-4ab7-9484-6b6e6b8f6dd0.gif" width="100%"> <p align="center"> <a href="https://www.linkedin.com/in/rubayit-alam-98843934a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/rubayitalam"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:rubayit100@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://pixlo.co.uk"> <img src="https://img.shields.io/badge/Pixlo.co.uk-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Pixlo"/> </a> <a href="https://zaytoon.com.bd/"> <img src="https://img.shields.io/badge/zaytoon.com.bd-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Zaytoon Business Solution"/> </a> </p> </div>
-💻 About Me
-
-I'm a passionate Full-Stack Developer with hands-on experience building scalable web applications using modern technologies across the entire stack. Currently working as a Web Developer at Pixlo and a Contractual Software Engineer at Zaytoon Business Solutions.
-
-🎓 B.Sc. in Computer Science & Engineering — American International University Bangladesh
-🌍 Based in Bashundara, Dhaka, Bangladesh
-🔭 Always learning new technologies and solving real-world problems through code
-🏏 Fun fact: I love playing cricket and exploring new tech!
-🛠️ Tech Stack
 <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,java,py,bash&theme=dark" />
-Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-Backend
-<img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs&theme=dark" /> &nbsp; <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,mssql&theme=dark" />
-Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" /> &nbsp; <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
 
-(hover over any icon above — they animate on hover)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=180&section=header&text=Rubayit%20Alam&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Dhaka,%20Bangladesh&descAlignY=62&descSize=18&descColor=94A3B8" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=64748B&center=true&vCenter=true&width=560&lines=Next.js+%2B+NestJS+%2B+ASP.NET+Core;Building+production-grade+web+platforms;Frontend-focused+%C2%B7+Full-stack+capable" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/rubayit-alam-98843934a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rubayitalam"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:rubayit100@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://pixlo.co.uk"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </div>
-📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rubayitalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rubayitalam&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayitalam&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayitalam&theme=tokyo-night&hide_border=true" width="90%" /> </div>
-🏆 Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rubayitalam&theme=tokyonight&no-frame=true&row=1&column=7" /> </div>
-🚀 Featured Projects
-🌐 Live Projects
-Project	Stack	Live Demo
-Pixlo	Full-Stack Web App	🔗 Visit
-Pixieset	Full-Stack Web App	🔗 Visit
-Aroma Ice Cream	React, TailwindCSS	🔗 Visit
-Chai Bros 1	React, Node.js, TailwindCSS	🔗 Visit
-Chai Bros 2	React, Node.js, TailwindCSS	🔗 Visit
-Pak Mecca Meats	Full-Stack Web App	🔗 Visit
-Onkur Foundation	Next.js, React	🔗 Visit
-Educational Website	Next.js, React	🔗 Visit
-Sade Tillman Portfolio	Next.js, React	🔗 Visit
-Francis Mercado Portfolio	Next.js, React	🔗 Visit
-💼 Selected Portfolio Projects
-🔹 Job Portal
 
-Full-stack job portal with advanced filtering, authentication, and company dashboards. Stack: Next.js · React.js · NestJS · PostgreSQL · TailwindCSS · JWT
+<br/>
 
-🔹 Employee Management System
+## About
 
-MERN stack application with employee CRUD operations, role-based authentication, and profile image uploads. Stack: React 19 · Vite · Node.js · MongoDB · JWT · Cloudinary · TailwindCSS
+Full-Stack Developer building scalable web applications end to end — from interface to API. Currently a **Web Developer at [Pixlo](https://pixlo.co.uk)** and a contractual **Software Engineer at [Zaytoon Business Solutions](https://zaytoon.com.bd/)**.
 
-🔹 Online Movie Ticket Management System
+- **B.Sc. in Computer Science & Engineering** — American International University Bangladesh
+- Based in Bashundara, Dhaka, Bangladesh
+- Focus areas: Next.js frontend architecture, REST API design, role-based auth systems
 
-Full-featured movie ticket booking platform with seat selection and booking management. Stack: React.js · TailwindCSS · Node.js · MongoDB
+<br/>
 
-🔹 Event Management System
+## Tech Stack
 
-Event creation, ticket registration, PDF generation, and admin panel. Stack: React.js · Node.js · PDF-lib · MongoDB
+<table>
+<tr>
+<td valign="top" width="50%">
 
-🔹 Contract Management API
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,java,py,bash&theme=dark&perline=7" />
 
-RESTful Web API with clean layered architecture — DAL, BLL, and API layers. Stack: ASP.NET Core · SQL Server · REST API
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=7" />
 
-🔹 Hungry Heroes
+</td>
+<td valign="top" width="50%">
 
-Food ordering system built with C# featuring menu management and order processing. Stack: C# · .NET
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs&theme=dark&perline=7" />
 
-🔹 Visa Processing System
+**Data & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,mssql,git,github,docker&theme=dark&perline=7" />
 
-Token-based visa application and processing system. Stack: ASP.NET Core · SQL Server
+</td>
+</tr>
+</table>
 
-🔹 TRP Management System
+<br/>
 
-TRP reporting and management system. Stack: ASP.NET Core · SQL Server
+## Experience
 
-🏆 Certifications & Activities
-🏅 IT Essentials Certificate — Cisco Networking Academy (2022)
-💻 Web Developer — AIUB Computer Club
-📋 Organizer — AIUB Business Club
-🌱 Volunteer — AIUB Environment Club
-📫 Contact Me
-<p> 📧 <a href="mailto:rubayit100@gmail.com">rubayit100@gmail.com</a><br/> 📱 01997789080<br/> 💼 <a href="https://www.linkedin.com/in/rubayit-alam-98843934a/">LinkedIn</a><br/> 🐙 <a href="https://github.com/rubayitalam">GitHub</a><br/> 🌐 <a href="https://pixlo.co.uk">Pixlo.co.uk</a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rubayitalam&label=Profile%20views&color=6C63FF&style=flat" alt="rubayitalam"/> </p> <p align="center">⭐ Feel free to star my repositories if you find them useful! ⭐</p> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+| Role | Organization | Focus |
+|---|---|---|
+| Web Developer | [Pixlo](https://pixlo.co.uk) | Client web applications, full lifecycle delivery |
+| Software Engineer (Contract) | [Zaytoon Business Solutions](https://zaytoon.com.bd/) | Fintech platforms — Next.js frontend, Spring Boot API integration |
+
+<br/>
+
+## Selected Projects
+
+| Project | Stack | Link |
+|---|---|---|
+| Job Portal | Next.js · React · NestJS · PostgreSQL · JWT | [Repo](https://github.com/rubayitalam) |
+| Employee Management System | React 19 · Vite · Node.js · MongoDB · Cloudinary | [Repo](https://github.com/rubayitalam) |
+| Contract Management API | ASP.NET Core · SQL Server · layered architecture | [Repo](https://github.com/rubayitalam) |
+| Movie Ticket Management System | React · Node.js · MongoDB | [Repo](https://github.com/rubayitalam) |
+| Event Management System | React · Node.js · PDF-lib · MongoDB | [Repo](https://github.com/rubayitalam) |
+| Visa Processing System | ASP.NET Core · SQL Server | [Repo](https://github.com/rubayitalam) |
+| TRP Management System | ASP.NET Core · SQL Server | [Repo](https://github.com/rubayitalam) |
+
+**Live deployments:** [Pixlo](https://pixlo.co.uk/) · [Pixieset](https://testeronline.co.uk/) · [Aroma Ice Cream](https://aromaice.co.uk/) · [Onkur Foundation](https://onkur-foundation-website-nine.vercel.app/) · [Pak Mecca Meats](https://pak-mecca-meats.vercel.app/)
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rubayitalam&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=334155&icon_color=64748B&title_color=0F172A" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayitalam&layout=compact&theme=default&hide_border=true&text_color=334155&title_color=0F172A" height="160"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayitalam&theme=minimal&hide_border=true&hide_title=true" width="90%"/>
+</div>
+
+<br/>
+
+## Certifications
+
+- IT Essentials Certificate — Cisco Networking Academy (2022)
+- Web Developer — AIUB Computer Club
+- Organizer — AIUB Business Club
+- Volunteer — AIUB Environment Club
+
+<br/>
+
+## Contact
+
+📧 [rubayit100@gmail.com](mailto:rubayit100@gmail.com) · 📱 01997789080 · 💼 [LinkedIn](https://www.linkedin.com/in/rubayit-alam-98843934a/) · 🌐 [Pixlo.co.uk](https://pixlo.co.uk)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rubayitalam&label=Profile%20Views&color=334155&style=flat-square"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0F172A&height=100&section=footer" width="100%"/>
