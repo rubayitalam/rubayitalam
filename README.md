@@ -11,11 +11,19 @@
 <a href="mailto:rubayit100@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://pixlo.co.uk">
-<img src="https://img.shields.io/badge/Pixlo.co.uk-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white%22 alt="Pixlo"/>
+<a href="https://pixlo.co.uk/">
+  <img
+    src="https://img.shields.io/badge/Pixlo.co.uk-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Pixlo"
+  />
 </a>
+
 <a href="https://zaytoon.com.bd/">
-<img src="https://img.shields.io/badge/zaytoon.com.bd-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white%22 alt="Zaytoon Business Solution"/>
+  <img
+    src="https://img.shields.io/badge/Zaytoon%20Business%20Solutions-168C5B?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Zaytoon Business Solutions"
+  />
+</a>
 </a>
 </p>
  
