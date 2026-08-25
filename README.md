@@ -91,7 +91,7 @@ Full-Stack Developer building scalable web applications end to end — from inte
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayitalam&theme=minimal&hide_border=true&hide_title=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayitalam&bg_color=ffffff&color=334155&line=0F172A&point=334155&area=true&area_color=94A3B8&title_color=0F172A&hide_border=true&hide_title=true" width="90%"/>
 </div>
 
 <br/>
